@@ -1,5 +1,5 @@
 def find_max_plus_or_multiply(array):
-    # 이 부분을 채워보세요!
+
     res = 0
     for num in array:
         if num <= 1 or res <=1:
